@@ -58,6 +58,16 @@ namespace Comp003A.Assignment1
             Console.WriteLine("I would like to try Cometeer coffee pods");
             Console.WriteLine("My favorite fictional character is Sonic the Hedgehog");
             Console.WriteLine("I love Colin Farrell");
+            Console.WriteLine("I love Keanu Reeves");
+            Console.WriteLine("I think Keanu Reeves was a perfect cast for Shadow in Sonic 3");
+            Console.WriteLine("My favorite phrase in the English language is 'Long Day's Journey Into Night' ");
+            Console.WriteLine("My favorite sentence in the English language is 'Beat laments the world'");
+            Console.WriteLine("Which also happens to be my favorite Nujabes song");
+            Console.WriteLine("Which is why it is my favorite sentence");
+            Console.WriteLine("I enjoy playing video games with my friends");
+            Console.WriteLine("I do wish they were into fighting games like me as I miss playing them");
+            Console.WriteLine("I have not tried Tekken 8 yet because I have no one to play with");
+            Console.WriteLine("This is the 70th line of text");
         }
     }
 }
