@@ -68,6 +68,16 @@ namespace Comp003A.Assignment1
             Console.WriteLine("I do wish they were into fighting games like me as I miss playing them");
             Console.WriteLine("I have not tried Tekken 8 yet because I have no one to play with");
             Console.WriteLine("This is the 70th line of text");
+            Console.WriteLine("I use to find it difficult to list things about myself");
+            Console.WriteLine("Nowadays I would say I have had an interesting life");
+            Console.WriteLine("Growing up I use to dream of being a scientist");
+            Console.WriteLine("I love the stationery products developed and manufactured by the brand Muji");
+            Console.WriteLine("I am not on the hunt for a superb pena and pencil case");
+            Console.WriteLine("The last movie I watched that I enjoyed was 'Tron: Ares' ");
+            Console.WriteLine("I only enjoyed it because of the design elements and easter eggs");
+            Console.WriteLine("Actually that is a lie, the last movie I watched and enjoyed was 'Frankenstein'");
+            Console.WriteLine("I am talking about the 2026 film directed by Guillermo Del Toro");
+            Console.WriteLine("I am an uber fan of Guillermo Del Toro");
         }
     }
 }
