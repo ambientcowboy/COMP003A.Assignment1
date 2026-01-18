@@ -88,6 +88,16 @@ namespace Comp003A.Assignment1
             Console.WriteLine("I have never seen Breaking Bad");
             Console.WriteLine("It is a dream of mine to build stage sets for concerts and fashion shows");
             Console.WriteLine("This is the 90th line of text");
+            Console.WriteLine("I need to purchase a new planner");
+            Console.WriteLine("I just realized i have made some error in the line numbers in my commits");
+            Console.WriteLine("I will need to inquire how to fix such an error in future class meetings");
+            Console.WriteLine("I enjoy the adult animation show 'Bob's Burgers'");
+            Console.WriteLine("This year I am turning 30 years old");
+            Console.WriteLine("I am both fearful and excited");
+            Console.WriteLine("There is a whole decade I want to make the most of");
+            Console.WriteLine("I did not enjoy my 20s");
+            Console.WriteLine("I own 3 dogs and 1 cat");
+            Console.WriteLine("This is the 100th line of text");
         }
     }
 }
