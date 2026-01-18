@@ -35,9 +35,19 @@ namespace Comp003A.Assignment1
             Console.WriteLine("I would like to learn how to compile lists of text such as this, in C#");
             Console.WriteLine("The last movie I watched was Dracula: A Love Story");
             Console.WriteLine("It was a horrible movie and I give it 2.5 stars out of 5");
-            Console.WriteLine("If there is a way to write a scriptwrite in C# that would be fun to learn");
+            Console.WriteLine("If there is a way to write a playscript in C# that would be fun to learn");
             Console.WriteLine("I also like dogs, albeit not as much as cats");
             Console.WriteLine("This is the 40th line of text");
+            Console.WriteLine("Hello everyone");
+            Console.WriteLine("Fraiser is my favorite sitcom");
+            Console.WriteLine("I enjoy King of The Hill a lot as well");
+            Console.WriteLine("I have high hopes for this year");
+            Console.WriteLine("This year I want to begin writing a script and playscript");
+            Console.WriteLine("Tonight I am running for winner in a design contest");
+            Console.WriteLine("What is life without sweet treats?");
+            Console.WriteLine("I have never traveled overseas");
+            Console.WriteLine("I would like to travel to different parts of Asia");
+            Console.WriteLine("I would also like to travel to Budapest");
         }
     }
 }
