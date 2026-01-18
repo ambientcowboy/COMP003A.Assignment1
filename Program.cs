@@ -9,6 +9,15 @@ namespace Comp003A.Assignment1
             Console.WriteLine("100 Things About Me");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("This is a line of text");
+            Console.WriteLine("This is a line of text");
+            Console.WriteLine("This is a line of text");
+            Console.WriteLine("This is a line of text");
+            Console.WriteLine("This is a line of text");
+            Console.WriteLine("This is a line of text");
+            Console.WriteLine("This is a line of text");
+            Console.WriteLine("This is a line of text");
+            Console.WriteLine("This is a line of text");
+            Console.WriteLine("This is a line of text");
         }
     }
 }
