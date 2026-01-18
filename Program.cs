@@ -1,9 +1,14 @@
-﻿namespace COMP003A.Assignment1;
+﻿using System;
 
-class Program
+namespace Comp003A.Assignment1
 {
-    static void Main(string[] args)
+    internal class Program
     {
-        Console.WriteLine("100 Things About Me");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("100 Things About Me");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("This is a line of text");
+        }
     }
 }
