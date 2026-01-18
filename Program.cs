@@ -48,6 +48,16 @@ namespace Comp003A.Assignment1
             Console.WriteLine("I have never traveled overseas");
             Console.WriteLine("I would like to travel to different parts of Asia");
             Console.WriteLine("I would also like to travel to Budapest");
+            Console.WriteLine("This is the 51st line of text");
+            Console.WriteLine("I am debating on purchasing a Windows machine");
+            Console.WriteLine("I do enjoy the allure and novelty of Apple products still");
+            Console.WriteLine("I do have a dream set up and it is often Apple Devices i imagine");
+            Console.WriteLine("I hope I am doing this correctly");
+            Console.WriteLine("In addition to learning coding languages I would like to learn how to draw well");
+            Console.WriteLine("There is a lot of artwork I would like to make if I learned how to draw");
+            Console.WriteLine("I would like to try Cometeer coffee pods");
+            Console.WriteLine("My favorite fictional character is Sonic the Hedgehog");
+            Console.WriteLine("I love Colin Farrell");
         }
     }
 }
