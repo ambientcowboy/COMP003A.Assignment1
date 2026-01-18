@@ -28,6 +28,16 @@ namespace Comp003A.Assignment1
             Console.WriteLine("I would like to pursue web design");
             Console.WriteLine("I enjoy the work of many different artists");
             Console.WriteLine("This is the 30th line of text");
+            Console.WriteLine("I was unsure how to do this assignment which is why it is late");
+            Console.WriteLine("I bought a new desk today");
+            Console.WriteLine("I would like to learn how to stylize text in C#");
+            Console.WriteLine("I would like to learn how to make lists in C#");
+            Console.WriteLine("I would like to learn how to compile lists of text such as this, in C#");
+            Console.WriteLine("The last movie I watched was Dracula: A Love Story");
+            Console.WriteLine("It was a horrible movie and I give it 2.5 stars out of 5");
+            Console.WriteLine("If there is a way to write a scriptwrite in C# that would be fun to learn");
+            Console.WriteLine("I also like dogs, albeit not as much as cats");
+            Console.WriteLine("This is the 40th line of text");
         }
     }
 }
