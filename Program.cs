@@ -78,6 +78,16 @@ namespace Comp003A.Assignment1
             Console.WriteLine("Actually that is a lie, the last movie I watched and enjoyed was 'Frankenstein'");
             Console.WriteLine("I am talking about the 2026 film directed by Guillermo Del Toro");
             Console.WriteLine("I am an uber fan of Guillermo Del Toro");
+            Console.WriteLine("He is an unmatched director, in my opinion");
+            Console.WriteLine("He is a master at world building and directing fantasy");
+            Console.WriteLine("Christmas is my favorite holiday");
+            Console.WriteLine("Winter is my favorite season");
+            Console.WriteLine("It is much easier to warm up than it is to cool down");
+            Console.WriteLine("I have a vast array of outerwear attire that I very much enjoy wearing");
+            Console.WriteLine("Fashion and clothing is also another passion of mine");
+            Console.WriteLine("I have never seen Breaking Bad");
+            Console.WriteLine("It is a dream of mine to build stage sets for concerts and fashion shows");
+            Console.WriteLine("This is the 90th line of text");
         }
     }
 }
